@@ -1,0 +1,554 @@
+[
+              {
+                            "TeamName": "Mumbai Indians Innings",
+                            "scoreCard": [
+                                          {
+                                                        "playersName": "Bumrah",
+                                                        "run": "5",
+                                                        "balls": "3",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "166.67"
+                                          },
+                                          {
+                                                        "playersName": "MS Dhoni (c & wk)",
+                                                        "run": "0",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Nortje",
+                                                        "run": "3",
+                                                        "balls": "1",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "300.00"
+                                          },
+                                          {
+                                                        "playersName": "Mohammed Shami",
+                                                        "run": "0",
+                                                        "balls": "0",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Philippe (wk)",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          },
+                                          {
+                                                        "playersName": "T Natarajan",
+                                                        "run": "3",
+                                                        "balls": "4",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "75.00"
+                                          },
+                                          {
+                                                        "playersName": "Jofra Archer",
+                                                        "run": "27",
+                                                        "balls": "8",
+                                                        "4s": "0",
+                                                        "6s": "4",
+                                                        "SR": "337.50"
+                                          },
+                                          {
+                                                        "playersName": "Ravindra Jadeja",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          }
+                            ]
+              },
+              {
+                            "TeamName": "Chennai Super Kings Innings",
+                            "scoreCard": [
+                                          {
+                                                        "playersName": "Bumrah",
+                                                        "run": "5",
+                                                        "balls": "3",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "166.67"
+                                          },
+                                          {
+                                                        "playersName": "MS Dhoni (c & wk)",
+                                                        "run": "0",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Nortje",
+                                                        "run": "3",
+                                                        "balls": "1",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "300.00"
+                                          },
+                                          {
+                                                        "playersName": "Mohammed Shami",
+                                                        "run": "0",
+                                                        "balls": "0",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Philippe (wk)",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          },
+                                          {
+                                                        "playersName": "T Natarajan",
+                                                        "run": "3",
+                                                        "balls": "4",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "75.00"
+                                          },
+                                          {
+                                                        "playersName": "Jofra Archer",
+                                                        "run": "27",
+                                                        "balls": "8",
+                                                        "4s": "0",
+                                                        "6s": "4",
+                                                        "SR": "337.50"
+                                          },
+                                          {
+                                                        "playersName": "Ravindra Jadeja",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          }
+                            ]
+              },
+              {
+                            "TeamName": "Delhi Capitals Innings",
+                            "scoreCard": [
+                                          {
+                                                        "playersName": "Bumrah",
+                                                        "run": "5",
+                                                        "balls": "3",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "166.67"
+                                          },
+                                          {
+                                                        "playersName": "MS Dhoni (c & wk)",
+                                                        "run": "0",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Nortje",
+                                                        "run": "3",
+                                                        "balls": "1",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "300.00"
+                                          },
+                                          {
+                                                        "playersName": "Mohammed Shami",
+                                                        "run": "0",
+                                                        "balls": "0",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Philippe (wk)",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          },
+                                          {
+                                                        "playersName": "T Natarajan",
+                                                        "run": "3",
+                                                        "balls": "4",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "75.00"
+                                          },
+                                          {
+                                                        "playersName": "Jofra Archer",
+                                                        "run": "27",
+                                                        "balls": "8",
+                                                        "4s": "0",
+                                                        "6s": "4",
+                                                        "SR": "337.50"
+                                          },
+                                          {
+                                                        "playersName": "Ravindra Jadeja",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          }
+                            ]
+              },
+              {
+                            "TeamName": "Kings XI Punjab Innings",
+                            "scoreCard": [
+                                          {
+                                                        "playersName": "Bumrah",
+                                                        "run": "5",
+                                                        "balls": "3",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "166.67"
+                                          },
+                                          {
+                                                        "playersName": "MS Dhoni (c & wk)",
+                                                        "run": "0",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Nortje",
+                                                        "run": "3",
+                                                        "balls": "1",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "300.00"
+                                          },
+                                          {
+                                                        "playersName": "Mohammed Shami",
+                                                        "run": "0",
+                                                        "balls": "0",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Philippe (wk)",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          },
+                                          {
+                                                        "playersName": "T Natarajan",
+                                                        "run": "3",
+                                                        "balls": "4",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "75.00"
+                                          },
+                                          {
+                                                        "playersName": "Jofra Archer",
+                                                        "run": "27",
+                                                        "balls": "8",
+                                                        "4s": "0",
+                                                        "6s": "4",
+                                                        "SR": "337.50"
+                                          },
+                                          {
+                                                        "playersName": "Ravindra Jadeja",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          }
+                            ]
+              },
+              {
+                            "TeamName": "Royal Challengers Bangalore Innings",
+                            "scoreCard": [
+                                          {
+                                                        "playersName": "Bumrah",
+                                                        "run": "5",
+                                                        "balls": "3",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "166.67"
+                                          },
+                                          {
+                                                        "playersName": "MS Dhoni (c & wk)",
+                                                        "run": "0",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Nortje",
+                                                        "run": "3",
+                                                        "balls": "1",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "300.00"
+                                          },
+                                          {
+                                                        "playersName": "Mohammed Shami",
+                                                        "run": "0",
+                                                        "balls": "0",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Philippe (wk)",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          },
+                                          {
+                                                        "playersName": "T Natarajan",
+                                                        "run": "3",
+                                                        "balls": "4",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "75.00"
+                                          },
+                                          {
+                                                        "playersName": "Jofra Archer",
+                                                        "run": "27",
+                                                        "balls": "8",
+                                                        "4s": "0",
+                                                        "6s": "4",
+                                                        "SR": "337.50"
+                                          },
+                                          {
+                                                        "playersName": "Ravindra Jadeja",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          }
+                            ]
+              },
+              {
+                            "TeamName": "Sunrisers Hyderabad Innings",
+                            "scoreCard": [
+                                          {
+                                                        "playersName": "Bumrah",
+                                                        "run": "5",
+                                                        "balls": "3",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "166.67"
+                                          },
+                                          {
+                                                        "playersName": "MS Dhoni (c & wk)",
+                                                        "run": "0",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Nortje",
+                                                        "run": "3",
+                                                        "balls": "1",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "300.00"
+                                          },
+                                          {
+                                                        "playersName": "Mohammed Shami",
+                                                        "run": "0",
+                                                        "balls": "0",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Philippe (wk)",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          },
+                                          {
+                                                        "playersName": "T Natarajan",
+                                                        "run": "3",
+                                                        "balls": "4",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "75.00"
+                                          },
+                                          {
+                                                        "playersName": "Jofra Archer",
+                                                        "run": "27",
+                                                        "balls": "8",
+                                                        "4s": "0",
+                                                        "6s": "4",
+                                                        "SR": "337.50"
+                                          },
+                                          {
+                                                        "playersName": "Ravindra Jadeja",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          }
+                            ]
+              },
+              {
+                            "TeamName": "Rajasthan Royals Innings",
+                            "scoreCard": [
+                                          {
+                                                        "playersName": "Bumrah",
+                                                        "run": "5",
+                                                        "balls": "3",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "166.67"
+                                          },
+                                          {
+                                                        "playersName": "MS Dhoni (c & wk)",
+                                                        "run": "0",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Nortje",
+                                                        "run": "3",
+                                                        "balls": "1",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "300.00"
+                                          },
+                                          {
+                                                        "playersName": "Mohammed Shami",
+                                                        "run": "0",
+                                                        "balls": "0",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Philippe (wk)",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          },
+                                          {
+                                                        "playersName": "T Natarajan",
+                                                        "run": "3",
+                                                        "balls": "4",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "75.00"
+                                          },
+                                          {
+                                                        "playersName": "Jofra Archer",
+                                                        "run": "27",
+                                                        "balls": "8",
+                                                        "4s": "0",
+                                                        "6s": "4",
+                                                        "SR": "337.50"
+                                          },
+                                          {
+                                                        "playersName": "Ravindra Jadeja",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          }
+                            ]
+              },
+              {
+                            "TeamName": "Chennai Super Kings Innings",
+                            "scoreCard": [
+                                          {
+                                                        "playersName": "Bumrah",
+                                                        "run": "5",
+                                                        "balls": "3",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "166.67"
+                                          },
+                                          {
+                                                        "playersName": "MS Dhoni (c & wk)",
+                                                        "run": "0",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Nortje",
+                                                        "run": "3",
+                                                        "balls": "1",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "300.00"
+                                          },
+                                          {
+                                                        "playersName": "Mohammed Shami",
+                                                        "run": "0",
+                                                        "balls": "0",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "0.00"
+                                          },
+                                          {
+                                                        "playersName": "Philippe (wk)",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          },
+                                          {
+                                                        "playersName": "T Natarajan",
+                                                        "run": "3",
+                                                        "balls": "4",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "75.00"
+                                          },
+                                          {
+                                                        "playersName": "Jofra Archer",
+                                                        "run": "27",
+                                                        "balls": "8",
+                                                        "4s": "0",
+                                                        "6s": "4",
+                                                        "SR": "337.50"
+                                          },
+                                          {
+                                                        "playersName": "Ravindra Jadeja",
+                                                        "run": "1",
+                                                        "balls": "2",
+                                                        "4s": "0",
+                                                        "6s": "0",
+                                                        "SR": "50.00"
+                                          }
+                            ]
+              }
+]
